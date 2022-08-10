@@ -31,14 +31,14 @@ function Footer() {
           <span className="sr-only">Mail</span>
         </a>
       </div>
-      <div className="flex flex-wrap justify-center mt-4 text-2xl sm:text-xl">
+      <div className="flex flex-wrap justify-center mt-4 text-2xl sm:text-xl font-semibold">
         <p className="text-black mb4">
           More with
           <span className="mr-2 " role="link" aria-label="heart">
             💙
           </span>
           <a
-            className="text-blue-500 hover:underline animate-bounce"
+            className="text-blue-600 hover:underline transition-colors"
             href="mailto:brijishadoshi12@gmail.com"
           >
             Brijisha Doshi

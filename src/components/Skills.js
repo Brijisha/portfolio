@@ -7,13 +7,14 @@ import { SiCss3 } from "react-icons/si";
 import { FaNodeJs } from "react-icons/fa";
 import { SiMysql } from "react-icons/si";
 import { SiMongodb } from "react-icons/si";
-import ScrollIntoView from "react-scroll-into-view";
+import { SiFirebase } from "react-icons/si";
 import { FaChevronDown } from "react-icons/fa";
-import "../App.css";
+import ScrollIntoView from "react-scroll-into-view";
+
 function Skills() {
   return (
     <div className="max-w-4xl mx-auto justify-center py-12 mt-3" id="tech">
-      <p className="text-2xl text-black  sm:text-4xl text-center rounded-xl font-bold animation:spin 1s linear infinite">
+      <p className="text-2xl text-black  sm:text-4xl text-center rounded-xl font-bold">
         Tech I Use
       </p>
       <div className="flex flex-wrap justify-center pt-2 mt-2">
@@ -57,6 +58,11 @@ function Skills() {
         <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52 hover:shadow-2xl hover:shadow-indigo-400">
           <SiMongodb color="#3FA037" className="mx-auto text-4xl" />
           <p className="mt-6 text-xl font-semibold text-center">MongoDB</p>
+        </div>
+
+        <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52 hover:shadow-2xl hover:shadow-indigo-400">
+          <SiFirebase color="#FFA611" className="mx-auto text-4xl" />
+          <p className="mt-6 text-xl font-semibold text-center">Firebase</p>
         </div>
       </div>
       <ScrollIntoView selector="#services">
