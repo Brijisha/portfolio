@@ -6,8 +6,8 @@ function Services() {
       <p className="text-2xl text-black  sm:text-4xl text-center rounded-xl font-bold">
         Services I provide
       </p>
-      <div className="flex flex-wrap justify-center pt-7 mt-4 p-5 ">
-        <div className=" p-5 m-4 overflow-hidden font-bold bg-white shadow-2xl rounded-lg sm:w-60">
+      <div className="flex flex-wrap justify-center pt-7 mt-4 p-5">
+        <div className=" p-5 m-4 overflow-hidden font-bold bg-white shadow-2xl rounded-lg sm:w-60 hover:transition-shadow hover:shadow-slate-200 ">
           <h5 className="mx-auto text-xl sm:text-2xl inline-block border-b-2">
             <span className="text-blue-900"> Front end </span> developement
           </h5>
@@ -18,7 +18,7 @@ function Services() {
           </p>
         </div>
 
-        <div className=" p-5 m-4 overflow-hidden font-bold bg-white shadow-2xl rounded-lg sm:w-60">
+        <div className=" p-5 m-4 overflow-hidden font-bold bg-white shadow-2xl rounded-lg sm:w-60 hover:transition-shadow hover:shadow-slate-200 ">
           <h5 className="mx-auto text-xl sm:text-2xl inline-block border-b-2">
             <span className="text-blue-900"> Back end </span> developement
           </h5>
