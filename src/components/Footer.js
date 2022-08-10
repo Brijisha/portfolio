@@ -33,7 +33,7 @@ function Footer() {
       </div>
       <div className="flex flex-wrap justify-center mt-4 text-2xl sm:text-xl font-semibold">
         <p className="text-black mb4">
-          More with
+          Made with
           <span className="mr-2 " role="link" aria-label="heart">
             💙
           </span>

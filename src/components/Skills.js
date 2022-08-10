@@ -18,8 +18,8 @@ function Skills() {
         Tech I Use
       </p>
       <div className="flex flex-wrap justify-center pt-2 mt-2">
-        <div className="flex flex-col p-10 m-6 overflow-hidden bg-white shadow-xl rounded-xl sm:w-52 hover:shadow-2xl hover:shadow-indigo-400">
-          <FaReact color="#61dbfb" className="mx-auto text-2xl sm:text-4xl" />
+        <div className="flex flex-col w-40  p-10 m-6 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52 hover:shadow-2xl hover:shadow-indigo-400">
+          <FaReact color="#61dbfb" className="mx-auto text-4xl" />
           <p className="mt-6 text-xl font-semibold text-center">React</p>
         </div>
 

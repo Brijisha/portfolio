@@ -20,7 +20,6 @@ function Services() {
 
         <div className=" p-5 m-4 overflow-hidden font-bold bg-white shadow-xl rounded-lg sm:w-60 hover:transition-shadow hover:shadow-slate-400 hover:shadow-3xl ">
           <h5 className="mx-auto text-xl sm:text-2xl inline-block border-b-2">
-            xl
             <span className="text-blue-900"> Back end </span> developement
           </h5>
           <p className="mt-6 text-xl font-semibold text-left">
