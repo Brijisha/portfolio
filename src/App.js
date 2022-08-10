@@ -1,7 +1,9 @@
 import React from "react";
 import About from "./components/About";
 import Card from "./components/Card";
+import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import Services from "./components/Services";
 import Skills from "./components/Skills";
 
 function App() {
@@ -9,6 +11,8 @@ function App() {
     <Card/>
     <About/>
     <Skills/>
+    <Services/>
+    <Contact/>
     <Footer/>
     
   </div>;
