@@ -18,49 +18,49 @@ function Skills() {
         Tech I Use
       </p>
       <div className="flex flex-wrap justify-center pt-2 mt-2">
-        <div className="flex flex-col lg:w-44 lg:p-5 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-5 m-3 overflow-hidden bg-white shadow-2xl rounded-xl hover:shadow-2xl hover:shadow-indigo-400">
+        <div className="flex flex-col lg:w-44 lg:p-10 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-3 m-3 overflow-hidden bg-white shadow-2xl rounded-xl hover:shadow-2xl hover:shadow-indigo-400">
           <FaReact color="#61dbfb" className="mx-auto text-4xl" />
           <p className="mt-6 text-xl font-semibold text-center">React</p>
         </div>
 
-        <div className="flex flex-col lg:w-44 lg:p-5 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-5 m-3 overflow-hidden bg-white shadow-2xl rounded-xl  hover:shadow-2xl hover:shadow-indigo-400">
+        <div className="flex flex-col lg:w-44 lg:p-10 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-3 m-3 overflow-hidden bg-white shadow-2xl rounded-xl  hover:shadow-2xl hover:shadow-indigo-400">
           <FaHtml5 color="#F06529" className="mx-auto text-4xl" />
           <p className="mt-6 text-xl font-semibold text-center">HTML</p>
         </div>
 
-        <div className="flex flex-col lg:w-44 lg:p-5 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-5 m-3 overflow-hidden bg-white shadow-2xl rounded-xl  hover:shadow-2xl hover:shadow-indigo-400">
+        <div className="flex flex-col lg:w-44 lg:p-10 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-3 m-3 overflow-hidden bg-white shadow-2xl rounded-xl  hover:shadow-2xl hover:shadow-indigo-400">
           <SiCss3 color="#2965f1" className="mx-auto text-4xl " />
           <p className="mt-6 text-xl font-semibold text-center">CSS</p>
         </div>
 
-        <div className="flex flex-col lg:w-44 lg:p-5 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-5 m-3 overflow-hidden bg-white shadow-2xl rounded-xl hover:shadow-2xl hover:shadow-indigo-400">
+        <div className="flex flex-col lg:w-44 lg:p-10 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-3 m-3 overflow-hidden bg-white shadow-2xl rounded-xl hover:shadow-2xl hover:shadow-indigo-400">
           <SiTailwindcss color="#00C0A3" className="mx-auto text-4xl" />
           <p className="mt-6 text-base font-semibold text-center">
             TailwindCSS
           </p>
         </div>
 
-        <div className="flex flex-col lg:w-44 lg:p-5 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-5 m-3 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52 hover:shadow-2xl hover:shadow-indigo-400">
+        <div className="flex flex-col lg:w-44 lg:p-10 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-3 m-3 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52 hover:shadow-2xl hover:shadow-indigo-400">
           <SiJavascript color="#F0DC7F" className="mx-auto text-4xl" />
           <p className="mt-6 text-xl font-semibold text-center">JavaScript</p>
         </div>
 
-        <div className="flex flex-col lg:w-44 lg:p-5 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-5 m-3 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52 hover:shadow-2xl hover:shadow-indigo-400">
+        <div className="flex flex-col lg:w-44 lg:p-10 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-3 m-3 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52 hover:shadow-2xl hover:shadow-indigo-400">
           <FaNodeJs color="#3c873a" className="mx-auto text-4xl" />
           <p className="mt-6 text-xl font-semibold text-center">NodeJs</p>
         </div>
 
-        <div className="flex flex-col lg:w-44 lg:p-5 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-5 m-3 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52 hover:shadow-2xl hover:shadow-indigo-400">
+        <div className="flex flex-col lg:w-44 lg:p-10 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-3 m-3 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52 hover:shadow-2xl hover:shadow-indigo-400">
           <SiMysql color="#00758f" className="mx-auto text-4xl" />
           <p className="mt-6 text-xl font-semibold text-center">My SQL</p>
         </div>
 
-        <div className="flex flex-col lg:w-44 lg:p-5 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-5 m-3 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52 hover:shadow-2xl hover:shadow-indigo-400">
+        <div className="flex flex-col lg:w-44 lg:p-10 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-3 m-3 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52 hover:shadow-2xl hover:shadow-indigo-400">
           <SiMongodb color="#3FA037" className="mx-auto text-3xl" />
           <p className="mt-6 text-xl font-semibold text-center">MongoDB</p>
         </div>
 
-        <div className="flex flex-col lg:w-44 lg:p-5 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-5 m-3 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52 hover:shadow-2xl hover:shadow-indigo-400">
+        <div className="flex flex-col lg:w-44 lg:p-10 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-3 m-3 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52 hover:shadow-2xl hover:shadow-indigo-400">
           <SiFirebase color="#FFA611" className="mx-auto text-4xl" />
           <p className="mt-6 text-xl font-semibold text-center">Firebase</p>
         </div>
