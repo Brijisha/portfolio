@@ -56,7 +56,7 @@ function Skills() {
         </div>
 
         <div className="flex flex-col lg:w-44 lg:p-5 lg:m-6 md:w-44 md:p-5 md:m-6 w-28 p-5 m-3 overflow-hidden bg-white shadow-2xl rounded-xl sm:w-52 hover:shadow-2xl hover:shadow-indigo-400">
-          <SiMongodb color="#3FA037" className="mx-auto text-4xl" />
+          <SiMongodb color="#3FA037" className="mx-auto text-3xl" />
           <p className="mt-6 text-xl font-semibold text-center">MongoDB</p>
         </div>
 
