@@ -6,7 +6,7 @@ import { MdEmail } from "react-icons/md";
 
 const Card = () => {
   return (
-    <div className="w-full">
+    <div className="w-full" id="top">
       <div className="flex flex-col justify-center max-w-sm mx-auto bg-white shadow-2xl rounded-xl p-5 hover:bg-gray-100">
         <div>
           <img

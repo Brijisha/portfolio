@@ -2,6 +2,8 @@ import React from "react";
 import { IoLogoGithub } from "react-icons/io";
 import { IoLogoLinkedin } from "react-icons/io";
 import { MdEmail } from "react-icons/md";
+import { FaChevronUp } from "react-icons/fa";
+import ScrollIntoView from "react-scroll-into-view";
 
 function Footer() {
   return (
@@ -31,7 +33,7 @@ function Footer() {
           <span className="sr-only">Mail</span>
         </a>
       </div>
-      <div className="flex flex-wrap justify-center mt-4 text-2xl sm:text-xl font-semibold">
+      <div className="flex flex-wrap justify-center mt-4 text-2xl sm:text-base">
         <p className="text-black mb4">
           Made with
           <span className="mr-2 " role="link" aria-label="heart">
@@ -45,6 +47,11 @@ function Footer() {
           </a>
         </p>
       </div>
+      <ScrollIntoView selector="#top">
+        <div className="float-right p-5">
+          <FaChevronUp className="animate-bounce mx-auto text-5xl text-blue-600" />
+        </div>
+      </ScrollIntoView>
     </div>
   );
 }
