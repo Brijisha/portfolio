@@ -20,7 +20,7 @@ const Card = () => {
             Brijisha Doshi
           </p>
           <p className="text-xs sm:text-base md:text-base text-gray-600 pt-2 pb-4 px-1.5 w-auto inline-block border-b-2">
-            Web Developer
+            Software Engineer
           </p>
 
           <div className="flex align-center justify-center mt-4">
